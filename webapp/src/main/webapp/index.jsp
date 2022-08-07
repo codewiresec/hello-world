@@ -1,6 +1,6 @@
 <form action="action_page.php">
     <div class="container">
-      <h1>EBUTE-META</h1>
+      <h1>Maryland Comprehensive Secondary School</h1>
       <p>Please fill in this form to create an account.</p>
       <hr>
 
