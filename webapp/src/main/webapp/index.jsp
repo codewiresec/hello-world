@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:blue;">Adeola Ify & Andy</h1>
+	<h1 style="color:blue;">Adeola, Ify, Andy & Aaron</h1>
 	
 	<hr/> 
 	<br/><br/> 
