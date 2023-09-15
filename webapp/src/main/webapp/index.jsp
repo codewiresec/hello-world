@@ -5,12 +5,12 @@
 	<meta name="author" content="Shigidi">
 	<meta name="keywords" content="HTML, Tutorial, Python, JavaScript">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Desperate family">
+	<meta name="description" content="website">
 	<title>Document</title>
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:blue;">Desperate Famil 4y</h1>
+	<h2 style="color:blue;">Desperate Famil 4</h2>
 	
 	<hr/> 
 	<br/><br/> 
