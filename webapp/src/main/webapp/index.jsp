@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:red;">Andrew and Aaron At Trampoline Park</h1>
+	<h1 style="color:red;">Andrew and Aaron At Trampoline</h1>
 	
 	<hr/> 
 	<br/><br/> 
