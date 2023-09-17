@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:red;">MEIC+R Discovery Confused Resolved!</h1>
+	<h1 style="color:red;">MEIC+R Discovery Confused SPY PLS GO UP TOMORROW!</h1>
 	
 	<hr/> 
 	<br/><br/> 
