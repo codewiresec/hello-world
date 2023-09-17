@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Discovery Confused SPY 446/440!</h1>
+	<h1 style="color:deepblue;">MEIC+R Discovery Confused SPY 446/440! $3700</h1>
 	
 	<hr/> 
 	<br/><br/> 
