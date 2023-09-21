@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Discovery Lost Shitload Today!!!</h1>
+	<h1 style="color:deepblue;">MEIC+R Discovery Recovering Tough Day!</h1>
 	
 	<hr/> 
 	<br/><br/> 
