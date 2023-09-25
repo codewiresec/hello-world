@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Discovery Recovery - 2 Day Recovering $1220</h1>
+	<h1 style="color:deepblue;">MEIC+R Discovery Recovery - Tomorrow Will Be Good</h1>
 	
 	<hr/> 
 	<br/><br/> 
