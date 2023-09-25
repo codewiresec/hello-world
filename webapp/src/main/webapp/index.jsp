@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Discovery Recovery - Awake!</h1>
+	<h1 style="color:deepblue;">MEIC+R Discovery Recovery - Countdown!</h1>
 	
 	<hr/> 
 	<br/><br/> 
