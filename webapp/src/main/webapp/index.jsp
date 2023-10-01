@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Discovery Drawdown - Stick 2 Rules</h1>
+	<h1 style="color:deepblue;">MEIC+R Discovery Major Drawdown - Stick 2 Rules</h1>
 	
 	<hr/> 
 	<br/><br/> 
