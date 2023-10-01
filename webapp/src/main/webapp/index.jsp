@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Best PlayBooks</h1>
+	<h1 style="color:deepblue;">MEIC+R Best Follow The Rules No Matter What</h1>
 	
 	<hr/> 
 	<br/><br/> 
