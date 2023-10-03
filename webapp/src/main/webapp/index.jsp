@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R CICD Fundamentals Ready</h1>
+	<h1 style="color:deepblue;">MEIC+R Make Money</h1>
 	
 	<hr/> 
 	<br/><br/> 
