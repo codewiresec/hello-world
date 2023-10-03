@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Best Be Patient</h1>
+	<h1 style="color:deepblue;">MEIC+R Best Be Patient & Wise</h1>
 	
 	<hr/> 
 	<br/><br/> 
