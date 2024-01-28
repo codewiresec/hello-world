@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Plesae Make Money</h1>
+	<h1 style="color:deepblue;">MEIC+R Losing Money</h1>
 	
 	<hr/> 
 	<br/><br/> 
