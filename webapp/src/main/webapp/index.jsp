@@ -2,13 +2,13 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="HTML Tutorial" content="Learning HTML">
-	<meta name="author" content="Shigidi">
+	<meta name="author" content="kabiyesi">
 	<meta name="keywords" content="HTML, Tutorial, Python, JavaScript">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="website">
 	<title>Document</title>
 </head>
-<body style="background-color:lightblue;">
+<body style="background-color:orange;">
 
 	<h1 style="color:deepblue;">MEIC+R Grow Account 013024 Lost $10</h1>
 	
