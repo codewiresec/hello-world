@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Grow Account 012924 Made $65</h1>
+	<h1 style="color:deepblue;">MEIC+R Grow Account 013024 Lost $10</h1>
 	
 	<hr/> 
 	<br/><br/> 
