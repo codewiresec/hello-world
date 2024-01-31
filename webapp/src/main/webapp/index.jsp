@@ -8,7 +8,7 @@
 	<meta name="description" content="website">
 	<title>Document</title>
 </head>
-<body style="background-color:red;">
+<body style="background-color:lightblue;">
 
 	<h1 style="color:deepblue;">MEIC+R Grow Account 013024 Lost $10</h1>
 	
