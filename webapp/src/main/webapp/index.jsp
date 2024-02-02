@@ -8,9 +8,9 @@
 	<meta name="description" content="website">
 	<title>Document</title>
 </head>
-<body style="background-color:lightblue;">
+<body style="background-color:red;">
 
-	<h1 style="color:deepblue;">MEIC+R Grow Account 013124 Lost $320</h1>
+	<h1 style="color:deepblue;">MEIC+R Grow Account: 020124 Gained $130 Next Day</h1>
 	
 	<hr/> 
 	<br/><br/> 
