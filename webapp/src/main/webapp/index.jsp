@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:skyblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Grow Account: 020124 Gained $130 Next Day Backtesting Trades</h1>
+	<h1 style="color:deepblue;">MEIC+R Grow Account: 020124 Gained $130 Next Review Trades</h1>
 	
 	<hr/> 
 	<br/><br/> 
