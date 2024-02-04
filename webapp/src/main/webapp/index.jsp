@@ -8,7 +8,7 @@
 	<meta name="description" content="website">
 	<title>Document</title>
 </head>
-<body style="background-color:lightgreen;">
+<body style="background-color:white;">
 
 	<h1 style="color:deepblue;">MEIC+R Grow Account: 020124 Gained $130 Next Review Trades</h1>
 	
