@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:lightblue;">
 
-	<h1 style="color:deepblue;">MEIC+R Grow Account: 020924 Back to Basics with SPY</h1>
+	<h1 style="color:deepblue;">MEIC+R Grow Account: 020924 Back to Basics w/ SPY</h1>
 	
 	<hr/> 
 	<br/><br/> 
