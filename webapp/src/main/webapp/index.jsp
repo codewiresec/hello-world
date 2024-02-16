@@ -8,7 +8,7 @@
 	<meta name="description" content="website">
 	<title>Document</title>
 </head>
-<body style="background-color:blue;">
+<body style="background-color:skyblue;">
 
 	<h1 style="color:deepblue;">MEIC+R Grow Account: 020924 Back to Basics with SPY Recovering w/ Rolling Trades</h1>
 	
